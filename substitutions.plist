@@ -46,9 +46,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>←</string>
+		<key>shortcut</key>
+		<string>&lt;-</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>→</string>
 		<key>shortcut</key>
 		<string>/rarr</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>→</string>
+		<key>shortcut</key>
+		<string>-&gt;</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -379,6 +391,114 @@
 		<string>⅞</string>
 		<key>shortcut</key>
 		<string>7/8</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>×</string>
+		<key>shortcut</key>
+		<string>x*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>÷</string>
+		<key>shortcut</key>
+		<string>//</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>≠</string>
+		<key>shortcut</key>
+		<string>=/=</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>≠</string>
+		<key>shortcut</key>
+		<string>!=</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>±</string>
+		<key>shortcut</key>
+		<string>+-</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>≥</string>
+		<key>shortcut</key>
+		<string>=&gt;</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>≥</string>
+		<key>shortcut</key>
+		<string>&gt;=</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>≤</string>
+		<key>shortcut</key>
+		<string>=&lt;</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>≤</string>
+		<key>shortcut</key>
+		<string>&lt;=</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>°</string>
+		<key>shortcut</key>
+		<string>/deg</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>℃</string>
+		<key>shortcut</key>
+		<string>/degc</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>℉</string>
+		<key>shortcut</key>
+		<string>/degf</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>℅</string>
+		<key>shortcut</key>
+		<string>c/o</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>❤️</string>
+		<key>shortcut</key>
+		<string>&lt;3</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>©</string>
+		<key>shortcut</key>
+		<string>(c)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>℗</string>
+		<key>shortcut</key>
+		<string>(p)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>®</string>
+		<key>shortcut</key>
+		<string>(r)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>™</string>
+		<key>shortcut</key>
+		<string>/tm</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

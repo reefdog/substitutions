@@ -94,21 +94,9 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>←</string>
-		<key>shortcut</key>
-		<string>&lt;-</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>→</string>
 		<key>shortcut</key>
 		<string>/rarr</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>→</string>
-		<key>shortcut</key>
-		<string>-&gt;</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

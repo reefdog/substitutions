@@ -37,9 +37,7 @@ Term | Substitution
 `/framedx` | 🎥 🟥 🟥 🟥 🟥 🟥 🟥
 `/darr` | ↓
 `/larr` | ←
-`<-` | ←
 `/rarr` | →
-`->` | →
 `/uarr` | ↑
 `/numero` | №
 `/no0` | ⓪

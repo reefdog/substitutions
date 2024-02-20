@@ -7,10 +7,12 @@ I strongly encourage you to freely add your own text substitutions, they’re te
 ## Installation
 
 - Download [`substitutions.plist`](./substitutions.plist)
-- Open macOS System Preferences
-- Go to Keyboard → Text
+- Open the macOS text replacement screen
+  - Monterey and earlier: System Preferences → Keyboard → Text
+  - Ventura and later: Settings → Keyboard → Text Input → Text Replacements
 - Drag `substitutions.plist` into the text-replacement area
-  - macOS will merge this with any existing substitutions, although this list will clobber any existing duplicates.
+
+macOS will merge this with any existing substitutions, although this list will clobber any duplicates.
 
 💡 iCloud will synchronize these between your devices, so anything you add on macOS will also be usable on your iOS devices.
 

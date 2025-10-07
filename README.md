@@ -29,14 +29,6 @@ Term | Substitution
 `/3star` | ★★★☆☆
 `/4star` | ★★★★☆
 `/5star` | ★★★★★
-`/framed1` | 🎥 🟩 ⬛️ ⬛️ ⬛️ ⬛️ ⬛️
-`/framed2` | 🎥 🟥 🟩 ⬛️ ⬛️ ⬛️ ⬛️
-`/framed3` | 🎥 🟥 🟥 🟩 ⬛️ ⬛️ ⬛️
-`/framed4` | 🎥 🟥 🟥 🟥 🟩 ⬛️ ⬛️
-`/framed5` | 🎥 🟥 🟥 🟥 🟥 🟩 ⬛️
-`/framed6` | 🎥 🟥 🟥 🟥 🟥 🟥 🟩
-`/framed7` | 🎥 🟥 🟥 🟥 🟥 🟥 🟥
-`/framedx` | 🎥 🟥 🟥 🟥 🟥 🟥 🟥
 `/darr` | ↓
 `/larr` | ←
 `/rarr` | →

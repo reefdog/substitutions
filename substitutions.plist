@@ -34,54 +34,6 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>🎥 🟩 ⬛️ ⬛️ ⬛️ ⬛️ ⬛️</string>
-		<key>shortcut</key>
-		<string>/framed1</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>🎥 🟥 🟩 ⬛️ ⬛️ ⬛️ ⬛️</string>
-		<key>shortcut</key>
-		<string>/framed2</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>🎥 🟥 🟥 🟩 ⬛️ ⬛️ ⬛️</string>
-		<key>shortcut</key>
-		<string>/framed3</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>🎥 🟥 🟥 🟥 🟩 ⬛️ ⬛️</string>
-		<key>shortcut</key>
-		<string>/framed4</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>🎥 🟥 🟥 🟥 🟥 🟩 ⬛️</string>
-		<key>shortcut</key>
-		<string>/framed5</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>🎥 🟥 🟥 🟥 🟥 🟥 🟩</string>
-		<key>shortcut</key>
-		<string>/framed6</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>🎥 🟥 🟥 🟥 🟥 🟥 🟥</string>
-		<key>shortcut</key>
-		<string>/framed7</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>🎥 🟥 🟥 🟥 🟥 🟥 🟥</string>
-		<key>shortcut</key>
-		<string>/framedx</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
 		<string>↓</string>
 		<key>shortcut</key>
 		<string>/darr</string>

@@ -20,7 +20,7 @@ macOS will merge this with any existing substitutions, although this list will c
 
 In any native macOS/iOS text field, type the trigger term and it will be automatically substituted. See the table below for a full list of substitutions.
 
-⚠️ Note that some applications (e.g., Firefox) don’t use native text fields, and so text substitutions won’t work there. My clunky workaround is to open Spotlight (Command-Space by default), type the term there, and copy out the substitution.
+⚠️ Note that some applications don’t use native text fields, and so system-level text substitutions may not work there. My clunky workaround is to open Spotlight (Command-Space by default), type the term there, and copy out the substitution.
 
 Term | Substitution
 ---- | -------------
